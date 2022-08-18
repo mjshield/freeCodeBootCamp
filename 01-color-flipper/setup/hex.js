@@ -12,6 +12,7 @@ for (let i = 0; i < 6; i++) {
     
     //just to see what it's doing for fun:
     console.log(hexColor);
+    
 }
 
 color.textContent = hexColor;
